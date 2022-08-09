@@ -1,8 +1,8 @@
 List and Get
-"../cli/img/List_and_Get.png"
+![List and Get](https://github.com/IgorBulyzhenkov/cli/blob/main/img/List_and_Get.png)
 
 Add and List
-"../cli/img/Add_and_List.png"
+![Add and List](https://github.com/IgorBulyzhenkov/cli/blob/main/img/Add_and_List.png)
 
 Remove
-"../cli/img/Remove_Contact.png"
+![Remove](https://github.com/IgorBulyzhenkov/cli/blob/main/img/Remove_Contact.png)
